@@ -1,5 +1,5 @@
 - 👋 Bem-Vindo, sou @joseHenrique346
-- 🌱 Atualmente cursando Análise e Desenvolvimento de Sistemas e estágiando ...
+- 🌱 Atualmente cursando Análise e Desenvolvimento de Sistemas e estágiando na área
 
 <!---
 joseHenrique346/joseHenrique346 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
