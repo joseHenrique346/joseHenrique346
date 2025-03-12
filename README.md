@@ -51,6 +51,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/joseHenrique346/joseHenrique346/output/snake.svg" alt="Snake animation" />
-
-###
+![Snake animation](https://raw.githubusercontent.com/joseHenrique346/joseHenrique346/output/snake.svg)
